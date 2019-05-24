@@ -1,7 +1,7 @@
 # Cell_classification
 Built an algorithm to classify cells into parasitized and uninfected. Used Convolutional Neural Networks
 
-Malaria Detection
+Malaria Detection:
 Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes. It is preventable and curable.
 In 2017, there were an estimated 219 million cases of malaria in 90 countries.
 Malaria deaths reached 435 000 in 2017.
