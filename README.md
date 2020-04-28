@@ -1,4 +1,4 @@
-# Cell_classification
+### Image Classification
 Built an algorithm to classify cells into parasitized and uninfected. Used Convolutional Neural Networks
 
 Malaria Detection:
